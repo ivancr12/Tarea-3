@@ -1,0 +1,7 @@
+polars==1.35.2
+pandas
+scikit-learn
+matplotlib
+seaborn
+numpy
+psutil
