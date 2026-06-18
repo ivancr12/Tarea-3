@@ -29,15 +29,15 @@ Instrucciones de ejecución
 
 Clonar el repositorio:
 text
-git clone https://gitlab.com/icr12-group/Tarea_3.git
-cd Tarea_3
+git clone https://github.com/ivancr12/Tarea-3.git
+cd Tarea-3
 Descargar el dataset US_Accidents_March23.csv desde Kaggle y colocarlo en la carpeta del proyecto.
 Abrir el notebook Tarea_3.ipynb en Google Colab o Jupyter Notebook.
 Ejecutar las celdas en orden.
 Estructura del repositorio
 
 text
-Tarea_3/
+Tarea-3/
 ├── README.md
 ├── Tarea_3.ipynb
 ├── requirements.txt
@@ -69,7 +69,6 @@ Join	1.51x
 Lazy Execution
 
 Speedup: 1.43x (Lazy fue más rápido)
-
 Escalabilidad
 
 Polars mostró mejor rendimiento en datasets grandes, alcanzando speedups de hasta 7.57x.
