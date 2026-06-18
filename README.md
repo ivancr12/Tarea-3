@@ -39,6 +39,8 @@ cd Tarea-3
 
 4. Ejecutar las celdas en orden.
 
+## Estructura del repositorio
+```
 Tarea-3/
 ├── README.md
 ├── Tarea_3.ipynb
@@ -51,7 +53,7 @@ Tarea-3/
 │   └── severity_distribution.png
 └── data/
     └── US_Accidents_March23.csv
-
+```
 
 ## Resumen de resultados
 
